@@ -11,7 +11,7 @@ import SwiftUI
 struct QuotelyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BottomNavView()
         }
     }
 }
